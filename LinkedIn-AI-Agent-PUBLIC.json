@@ -49,7 +49,7 @@
             {
               "id": "dd47b879-af97-4828-834a-cfc53c257d18",
               "name": "linkedin_access_token",
-              "value": "AQV9ayxVwciwsU9cWhcy7CHKtwNFCaP0DtZ7dIR7iZPFKENINe2g6KDst5Ad719WI1TnZSyK3fPBniB7uAE6FSop9bzwyVFBJGguuRQW0R6rWE9XxGFt6MYs6FJzHZaBLL-M5XwObFM4PzMjfMeqkXbfaiy1stwnRJsiEKSspVQXJrPWlML01uSdDZlfo4e3n9vDMDwMY9Im45ON4HtEE5l_n-jS54tocD4I5VECi3sG8yT3VVn0jBg6mVk4YH24A47ASGir-SG7HixbWES3AZtXCace_HX_8QAb-T5xEB-XVwxpN92S9WGJR0Iqe0ZtZ5NOEg1AxC2huMN00VS2KvZzhxHjNw",
+              "value": "REPLACE_WITH_LINKEDIN_ACCESS_TOKEN,
               "type": "string"
             },
             {
